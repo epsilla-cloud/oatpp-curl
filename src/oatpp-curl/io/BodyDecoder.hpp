@@ -25,7 +25,7 @@
 #ifndef oatpp_curl_BodyDecoder_hpp
 #define oatpp_curl_BodyDecoder_hpp
 
-#include "oatpp/web/protocol/http/incoming/BodyDecoder.hpp"
+#include <oatpp/web/protocol/http/incoming/BodyDecoder.hpp>
 
 namespace oatpp { namespace curl { namespace io {
 

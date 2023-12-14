@@ -27,8 +27,8 @@
 
 #include "./Curl.hpp"
 
-#include "oatpp/web/protocol/http/Http.hpp"
-#include "oatpp/core/data/stream/BufferStream.hpp"
+#include <oatpp/web/protocol/http/Http.hpp>
+#include <oatpp/core/data/stream/BufferStream.hpp>
 
 namespace oatpp { namespace curl { namespace io {
 
